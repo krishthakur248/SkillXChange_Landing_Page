@@ -1,0 +1,9 @@
+{
+  "name": "testing-ui",
+  "version": "1.0.0",
+  "description": "Exact 1:1 Vanilla JS Landing Page with WebGL Brain and ASScroll",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
